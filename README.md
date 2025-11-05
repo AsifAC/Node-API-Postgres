@@ -4,13 +4,13 @@ A RESTful API built with Node.js, Express, and PostgreSQL for managing users.
 
 ## Features
 
-- ✅ RESTful API endpoints
-- ✅ PostgreSQL database integration
-- ✅ Input validation
-- ✅ Error handling
-- ✅ Environment variable configuration
-- ✅ CORS support
-- ✅ Security headers
+- RESTful API endpoints
+- PostgreSQL database integration
+- Input validation
+- Error handling
+- Environment variable configuration
+- CORS support
+- Security headers
 
 ## Prerequisites
 
