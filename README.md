@@ -186,7 +186,4 @@ node-api-postgres/
 - **helmet** - Security headers
 - **morgan** - HTTP request logger
 
-## License
-
-ISC
 
